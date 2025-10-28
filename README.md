@@ -2,6 +2,8 @@
 The repository contains R code to create spatial habitat networks across time and assess metacommunity definitions based on this historical networks. This refers to the work done in paper:
   Harisena, N. V., Grêt-Regamey, A., & Van Strien, M. J. (2024). Identification of metacommunities in bioregions with historical habitat networks. Ecology and Evolution, 14(8), 1–13. https://doi.org/10.1002/ece3.70076
 
+Also download the code from: https://doi.org/10.5281/zenodo.17466255
+
 ## Code details
 ### 1&2.wetland_timesteps and wetland_correction
 Aggregation of wetland cover for different timesteps and its correction to not include emergence of new wetladns over time, see paper for more details. 
